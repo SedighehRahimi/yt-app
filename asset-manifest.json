@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yt-app/static/css/main.6fa0c11c.css",
+    "main.js": "/yt-app/static/js/main.7b0f7fad.js",
+    "index.html": "/yt-app/index.html",
+    "main.6fa0c11c.css.map": "/yt-app/static/css/main.6fa0c11c.css.map",
+    "main.7b0f7fad.js.map": "/yt-app/static/js/main.7b0f7fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa0c11c.css",
+    "static/js/main.7b0f7fad.js"
+  ]
+}
